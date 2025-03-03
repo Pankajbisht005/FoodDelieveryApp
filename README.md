@@ -3,7 +3,7 @@
 1. Clone the repo
 
 ```bash
-git clone 
+git clone https://github.com/Pankajbisht005/FoodDelieveryApp
 ```
 
 2. Install dependencies
